@@ -139,7 +139,7 @@ Repeater-based Splide.js slider widget built from scratch, editor-safe with no b
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YoG-Anish&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff" width="90%" />
 
 </div>
 
