@@ -1,30 +1,73 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Anish Maka</h1>
-<h3 align="center">A passionate frontend developer from Nepal.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <h1 align="center">Hi there, I'm Anish 👋</h1>
+<h3 align="center">Backend WordPress Developer • PHP • WooCommerce • Gutenberg</h3>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yog-anish&label=Profile%20views&color=0e75b6&style=flat" alt="yog-anish" /> </p>
-
-- 🔭 I’m currently working on **E-commerce website**
-
-- 🌱 I’m currently learning **Python, JavaScript**
-
-- 📫 How to reach me **yogesh.anish01@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anish maka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish maka" height="30" width="40" /></a>
-<a href="https://fb.com/anish maka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anish maka" height="30" width="40" /></a>
-<a href="https://instagram.com/__an.ish__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__an.ish__" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+custom+WordPress+themes+from+scratch;ACF+Pro+%2B+Gutenberg+Blocks+%2B+WooCommerce;Turning+client+chaos+into+clean%2C+scalable+code" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yog-anish&show_icons=true&locale=en&layout=compact" alt="yog-anish" /></p>
+### 🔧 What I Do
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yog-anish&show_icons=true&locale=en" alt="yog-anish" /></p>
+I build **custom, non-abstracted WordPress solutions** for client projects — theme architecture, dynamic Gutenberg block systems, and WooCommerce customizations that just work. I care about clean, predictable code over clever abstractions, and I love digging into the weeds of a stubborn bug until it's solved.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yog-anish&" alt="yog-anish" /></p>
+```php
+if ( $bug->exists() ) {
+    debug_until_resolved( $bug ); // no shortcuts, no guessing
+}
+```
+
+---
+
+### 🛠️ Tech I Work With
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/ACF_Pro-1E88E5?style=for-the-badge&logo=advanced-custom-fields&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Highlights From Recent Work
+
+- 🧩 **Built a full ACF Gutenberg block suite** — Hero, Testimonials, Case Studies with AJAX filtering, and a fully generic **Dynamic AJAX Tab block** that supports *any* CPT/taxonomy combo with Load More + numbered pagination
+- 🛍️ **WooCommerce customizations** — live wishlist counters with `MutationObserver`, YITH Wishlist debugging, infinite scroll fixes, custom checkout validation popups
+- 🎸 **Currently building a full theme for a 10-member Nepali band** — classic PHP templating, ACF Options Pages, Splide sliders, Fancybox video popups, and custom gallery load-more
+- 🎨 **Custom Elementor widgets** — a Splide-powered hero slider widget built for a Hello Elementor child theme
+- 🐛 **Debugging is half the craft** — from ACF field mismatches to Local by Flywheel tunnel auth errors, I don't stop until the root cause is found
+
+---
+
+### 📌 Philosophy
+
+> Straightforward, non-abstracted code that the next developer can actually read.
+
+I follow established conventions rather than reinventing patterns — self-contained block folders, consistent naming, relative AJAX URLs for portability across dev environments, and code that a teammate can pick up without a decoder ring.
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center"><i>⭐ Currently vibing to a Nepali band's tracklist while building their website.</i></p>
