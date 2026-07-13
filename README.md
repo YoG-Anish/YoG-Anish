@@ -64,7 +64,6 @@ final class Anish_Dev {
 
 <img src="https://img.shields.io/badge/ACF_PRO-1E88E5?style=for-the-badge&logo=advanced-custom-fields&logoColor=white" />
 <img src="https://img.shields.io/badge/ELEMENTOR-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
-<img src="https://img.shields.io/badge/SPLIDE.JS-FF6B6B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GUTENBERG-000000?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 </div>
@@ -81,7 +80,7 @@ final class Anish_Dev {
 <tr>
 <td width="50%">
 
-**🎸 Kumasagar & The Khwopa**
+**🎸 Kuma Sagar & The Khwopa**
 <br><sub>Band website — custom PHP theme</sub>
 
 Full theme build with ACF Options Pages, CPT/taxonomy architecture, Fancybox video popups, Splide sliders, and client-side gallery load-more. Classic templating, zero bloat.
