@@ -80,8 +80,8 @@ final class Anish_Dev {
 <tr>
 <td width="50%">
 
-**🎸 Kuma Sagar & The Khwopa**
-<br><sub>Band website — custom PHP theme</sub>
+**🎸 Tool shop **
+<br><sub>ecommerce website — custom PHP theme</sub>
 
 Full theme build with ACF Options Pages, CPT/taxonomy architecture, Fancybox video popups, Splide sliders, and client-side gallery load-more. Classic templating, zero bloat.
 
